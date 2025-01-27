@@ -211,18 +211,3 @@ label{
     }
 }
 
-@media (max-width: 560px){
-    .content .info h2{
-        font-size: 35px;
-        line-height: 40px;
-    }
-
-    .content .info h2 spam{
-        font-size: 30px;
-        font-weight: 600;
-    }
-
-    .content .info p{
-        font-size: 14px;
-    }
-}
